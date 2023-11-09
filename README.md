@@ -21,6 +21,8 @@ https://github.com/tsujan/Kvantum/tree/master/Kvantum/themes/kvthemes
 
 [Edna 2](https://www.pling.com/p/1417204/)  
 
+[Concky](https://www.youtube.com/watch?v=s5csaCSyfoo)
+
 https://www.pling.com/
 
 https://ulauncher.io/#
