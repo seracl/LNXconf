@@ -17,6 +17,8 @@ https://www.reddit.com/r/unixporn/
 
 https://github.com/tsujan/Kvantum/tree/master/Kvantum/themes/kvthemes
 
+[gitlab Edna](https://gitlab.com/jomada/edna/-/tree/main?ref_type=heads)
+
 [Edna 1](https://www.pling.com/p/1367055/)
 
 [Edna 2](https://www.pling.com/p/1417204/)  
