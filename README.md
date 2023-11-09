@@ -15,6 +15,8 @@ sudo apt install qt5-style-kvantum qt5-style-kvantum-themes
 
 ## Links
 
+[git init](https://git-scm.com/)
+
 [After Install](https://www.quora.com/Is-there-any-performance-disadvantage-if-installing-multiple-desktop-environments-in-Debian-via-the-Net-Install-method)
 
 [Linuxscoop](https://www.youtube.com/watch?v=exQh0_JKBJQ&list=PLKopOf5__2tj0aVUX68Kyr9rNltrLTWDq&index=5)
