@@ -13,6 +13,8 @@ apt-get dist-upgrade
 
 sudo apt install qt5-style-kvantum qt5-style-kvantum-themes
 
+sudo apt-get install gtk2-engines-murrine
+
 ## Links
 
 [git init](https://git-scm.com/)
